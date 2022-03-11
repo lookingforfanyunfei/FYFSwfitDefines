@@ -8,6 +8,6 @@
 
 import UIKit
 
-class FYFObjectDefine: NSObject {
+public struct FYFObjectDefine {
     
 }

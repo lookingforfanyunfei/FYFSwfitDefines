@@ -55,7 +55,7 @@ extension UIColor {
 
 import UIKit
 
-class FYFColorDefine: NSObject {
+public struct FYFColorDefine {
     
 }
 
