@@ -1,0 +1,6 @@
+framework module Pods_FYFSwfitDefines_Example {
+  umbrella header "Pods-FYFSwfitDefines_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module FYFSwfitDefines {
+  umbrella header "FYFSwfitDefines-umbrella.h"
+
+  export *
+  module * { export * }
+}
