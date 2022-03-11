@@ -7,7 +7,7 @@
 
 
 // MARK: - 默认
-extension UIColor {
+public extension UIColor {
     
     /// 默认文字颜色
     static var defaultTextColor: UIColor {
@@ -28,7 +28,7 @@ extension UIColor {
 
 
 // MARK: - 生成颜色
-extension UIColor {
+public extension UIColor {
     
     /// 十六进制颜色
     /// - Parameter hexColor: 十六进制数
